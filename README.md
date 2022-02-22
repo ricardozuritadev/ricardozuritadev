@@ -6,6 +6,7 @@ Actualmente está en crecimiento, pero puedes encontrar:
 - Una web-app de reserva de tours por las Islas Galápagos, desarrollado con el stack MERN.
 - Un dashboard desarrollado con en stack MERN para el proyecto de fin de bootcamp de The Bridge.
 - Un "Pokédex" para buscar y guardar pokémon desarrollado con React:
+
   https://pokedex-rz.netlify.app/
   
 - Un dashboard para la gestión de pacientes de una clínica veterinaria desarrollado con React: 
