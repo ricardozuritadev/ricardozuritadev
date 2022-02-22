@@ -3,8 +3,11 @@
 
 Actualmente está en crecimiento, pero puedes encontrar:
 - Proyectos desarrollados con el stack MERN (MongoDB, Express, React, Node.js)
-- Una web-app de reserva de tours por las Islas Galápagos, desarrollado con el stack MERN.
-- Un dashboard desarrollado con en stack MERN para el proyecto de fin de bootcamp de The Bridge.
+- Una web-app de reserva de tours por las Islas Galápagos, desarrollado con el stack MERN (en desarrollo)
+- Un dashboard desarrollado con en stack MERN para el proyecto de fin de bootcamp de The Bridge:
+
+  https://popclaim.herokuapp.com/
+
 - Un "Pokédex" para buscar y guardar pokémon desarrollado con React:
 
   https://pokedex-rz.netlify.app/
