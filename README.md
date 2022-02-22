@@ -30,18 +30,18 @@ Repositorios ordenados por temas:
   
 - Web-apps desarrolladas con React:
   - <a href="https://github.com/ricardozurita/ricardo-zurita-resume" target="_blank">CV Ricardo Zurita. CV personal donde expongo mis habilidades y conocimientos de una forma mas dinámica</a>
+  
   - <a href="https://github.com/ricardozurita/poke-app-react" target="_blank">POKÉAPP. Web-app para buscar información de pokémon de todas las generaciones</a>
+  
   - <a href="https://github.com/ricardozurita/vet-patient-monitoring-react" target="_blank">Vet Patient Monitoring. Dashboard para gestionar pacientes ingresados en una clínica veterinaria</a>
   
-- Web-apps maquetadas con HTML5 y CSS3
-  
 
 
 \
 \
 \
-Escríbeme a [hola@ricardo-zurita.com](mailto:hola@ricardo-zurita.com) si quieres contactar conmigo :smiley:
+Escríbeme a [ricardo.zurita.dev@gmail.com](mailto:ricardo.zurita.dev@gmail.com) si quieres contactar conmigo :smiley:
 
-Y puedes visitar mi perfil de LinkedIn <a href="https://www.linkedin.com/in/ricardozuritab/" target="_blank">AQUí</a>
+Y puedes visitar mi perfil de LinkedIn <a href="https://www.linkedin.com/in/ricardozuritadev/" target="_blank">AQUí</a>
 
 ¡Muchas gracias por visitar mi repositorio!
