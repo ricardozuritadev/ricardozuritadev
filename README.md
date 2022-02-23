@@ -29,7 +29,7 @@ Repositorios ordenados por temas:
   - <a href="https://github.com/ricardozurita/to-do-app" target="_blank">TODO-APP. To-do app para organización de tareas</a>
   
 - Web-apps desarrolladas con React:
-  - <a href="https://github.com/ricardozurita/ricardo-zurita-resume" target="_blank">CV Ricardo Zurita. CV personal donde expongo mis habilidades y conocimientos de una forma mas dinámica</a>
+  - <a href="https://github.com/ricardozurita/ricardo-zurita-resume" target="_blank">Mi CV personal donde expongo mis habilidades y conocimientos de una forma mas dinámica</a>
   
   - <a href="https://github.com/ricardozurita/poke-app-react" target="_blank">POKÉAPP. Web-app para buscar información de pokémon de todas las generaciones</a>
   
