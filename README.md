@@ -1,5 +1,5 @@
-### ¡Hola! 👋
-### Bienvenid@ a mi repositorio
+### ¡Hola 🙋‍♂️ soy Ricardo! 
+### Bienvenid@ a mi repositorio 💻
 
 Actualmente está en crecimiento, pero puedes encontrar:
 - Proyectos desarrollados con el stack MERN (MongoDB, Express, React, Node.js)
@@ -35,13 +35,15 @@ Repositorios ordenados por temas:
   
   - <a href="https://github.com/ricardozurita/vet-patient-monitoring-react" target="_blank">Vet Patient Monitoring. Dashboard para gestionar pacientes ingresados en una clínica veterinaria</a>
   
+\
+\
 
-
+Actualmente estoy aprendiendo 📔 testing en React con Jest y despliegue de aplicaciones con Docker.
 \
 \
 \
-Escríbeme a [ricardo.zurita.dev@gmail.com](mailto:ricardo.zurita.dev@gmail.com) si quieres contactar conmigo :smiley:
+Escríbeme a [ricardo.zurita.dev@gmail.com](mailto:ricardo.zurita.dev@gmail.com) si quieres contactar conmigo
 
 Y puedes visitar mi perfil de LinkedIn <a href="https://www.linkedin.com/in/ricardozuritadev/" target="_blank">AQUí</a>
 
-¡Muchas gracias por visitar mi repositorio!
+🤗 ¡Muchas gracias por visitar mi repositorio! 🤗
