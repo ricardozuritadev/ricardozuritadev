@@ -5,13 +5,6 @@ Actualmente está en crecimiento, pero puedes encontrar:
 - Proyectos desarrollados con el stack MERN y PERN (MongoDB, PostgreSQL, Express, React, Node.js)
 - Una web-app de reserva de tours por las Islas Galápagos, desarrollado con el stack MERN (en desarrollo)
 - Un dashboard para administrar posts de usuarios desarrollado con React:
-
-  https://popclaim.herokuapp.com/
-
-- Un "Pokédex" para buscar y guardar pokémon desarrollado con React:
-
-  https://github.com/ricardozuritadev/posts-management-dashboard
-
 - Mi CV personal a modo de resumen utilizando React y Sass como tecnologías principales:
 
   https://ricardo-zurita.netlify.app/
