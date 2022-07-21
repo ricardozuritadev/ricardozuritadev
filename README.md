@@ -2,43 +2,35 @@
 ### Bienvenid@ a mi repositorio 💻
 
 Actualmente está en crecimiento, pero puedes encontrar:
-- Proyectos desarrollados con el stack MERN (MongoDB, Express, React, Node.js)
+- Proyectos desarrollados con el stack MERN y PERN (MongoDB, PostgreSQL, Express, React, Node.js)
 - Una web-app de reserva de tours por las Islas Galápagos, desarrollado con el stack MERN (en desarrollo)
-- Un dashboard desarrollado con en stack MERN para el proyecto de fin de bootcamp de The Bridge:
+- Un dashboard para administrar posts de usuarios desarrollado con React:
 
   https://popclaim.herokuapp.com/
 
 - Un "Pokédex" para buscar y guardar pokémon desarrollado con React:
 
-  https://pokedex-rz.netlify.app/
-  
-- Un dashboard para la gestión de pacientes de una clínica veterinaria desarrollado con React: 
-
-  https://vet-appointments-rz.netlify.app/
+  https://github.com/ricardozuritadev/posts-management-dashboard
 
 - Mi CV personal a modo de resumen utilizando React y Sass como tecnologías principales:
 
-  https://ricardo-zurita.com/
+  https://ricardo-zurita.netlify.app/
 
 Repositorios ordenados por temas:
 - Web-apps desarrolladas con el stack MERN:
   - <a href="https://github.com/ricardozurita/galatours" target="_blank">GALATOURS. Web-app para reserva de tours de aventuras por las Islas Gálapagos en Ecuador</a>
   
-  - <a href="https://github.com/ricardozurita/popclaim" target="_blank">POPCLAIM. Dashboard para la web-app popclaim para controlar la reputación de una marca en RRSS</a>
-  
-  - <a href="https://github.com/ricardozurita/to-do-app" target="_blank">TODO-APP. To-do app para organización de tareas</a>
-  
 - Web-apps desarrolladas con React:
   - <a href="https://github.com/ricardozurita/ricardo-zurita-resume" target="_blank">Mi CV personal donde expongo mis habilidades y conocimientos de una forma mas dinámica</a>
   
-  - <a href="https://github.com/ricardozurita/poke-app-react" target="_blank">POKÉAPP. Web-app para buscar información de pokémon de todas las generaciones</a>
+   - <a href="https://github.com/ricardozuritadev/advanced-pokedex" target="_blank">ADVANCED POKÉDEX - Webapp donde te puedes registrar como entrenador o entrenadora Pokémon y ver toda la info de los pokemon de la primera generación, así como guardar favoritos y más.</a>
   
-  - <a href="https://github.com/ricardozurita/vet-patient-monitoring-react" target="_blank">Vet Patient Monitoring. Dashboard para gestionar pacientes ingresados en una clínica veterinaria</a>
+  - <a href="https://github.com/ricardozuritadev/posts-management-dashboard" target="_blank">Dashboard para administrar posts de usuarios</a>
   
 \
 \
 
-Actualmente estoy aprendiendo 📔 testing en React con Jest y despliegue de aplicaciones con Docker.
+Actualmente estoy aprendiendo 📔 Redux y Typescript con React
 \
 \
 \
