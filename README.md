@@ -14,12 +14,11 @@ Repositorios ordenados por temas:
   - <a href="https://github.com/ricardozurita/galatours" target="_blank">GALATOURS. Web-app para reserva de tours de aventuras por las Islas Gálapagos en Ecuador</a>
   
 - Web-apps desarrolladas con React:
+  - <a href="https://github.com/ricardozuritadev/posts-management-dashboard" target="_blank">Dashboard para administrar posts de usuarios</a>  
+  
   - <a href="https://github.com/ricardozurita/ricardo-zurita-resume" target="_blank">Mi CV personal donde expongo mis habilidades y conocimientos de una forma mas dinámica</a>
   
    - <a href="https://github.com/ricardozuritadev/advanced-pokedex" target="_blank">ADVANCED POKÉDEX - Webapp donde te puedes registrar como entrenador o entrenadora Pokémon y ver toda la info de los pokemon de la primera generación, así como guardar favoritos y más.</a>
-  
-  - <a href="https://github.com/ricardozuritadev/posts-management-dashboard" target="_blank">Dashboard para administrar posts de usuarios</a>
-  
 \
 \
 
