@@ -1,2 +1,1 @@
-
-![banner_rz_linkedin](https://github.com/ricardozuritadev/ricardozuritadev/assets/84975927/136ea686-bf3b-4fd7-9894-3773114055df)
+![ricardo-zurita-banner-dark](https://github.com/user-attachments/assets/d76e6c7c-3eb3-4c47-a41a-edcd82be11d1)
